@@ -1,11 +1,4 @@
 # Starter pipeline
-- task: GitHubComment@0
-  inputs:
-    gitHubConnection: 'naresh-ns201'
-    repositoryName: 'ADNA_Exp_project'
-# Start with a minimal pipeline that you can customize to build and deploy your code.
-# Add steps that build, run tests, deploy, and more:
-# https://aka.ms/yaml
 
 trigger:
 - main
